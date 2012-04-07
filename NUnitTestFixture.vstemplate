@@ -1,0 +1,13 @@
+<VSTemplate Type="Item" Version="2.0.0"
+    xmlns="http://schemas.microsoft.com/developer/vstemplate/2005">
+    <TemplateData>
+        <Name>NUnit Test Fixture</Name>
+        <Description>C# NUnit test fixture class</Description>
+        <Icon>M_J_O_N_E_S.ico</Icon>
+        <ProjectType>CSharp</ProjectType>
+        <DefaultName>Tests.cs</DefaultName>
+    </TemplateData>
+    <TemplateContent>
+        <ProjectItem ReplaceParameters="true">NUnitTestFixture.cs</ProjectItem>
+    </TemplateContent>
+</VSTemplate>
