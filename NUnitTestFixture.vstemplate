@@ -3,7 +3,7 @@
     <TemplateData>
         <Name>NUnit Test Fixture</Name>
         <Description>C# NUnit test fixture class</Description>
-        <Icon>M_J_O_N_E_S.ico</Icon>
+        <Icon>NUnit.ico</Icon>
         <ProjectType>CSharp</ProjectType>
         <DefaultName>TestFixture.cs</DefaultName>
     </TemplateData>
