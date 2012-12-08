@@ -5,7 +5,7 @@
         <Description>C# NUnit test fixture class</Description>
         <Icon>M_J_O_N_E_S.ico</Icon>
         <ProjectType>CSharp</ProjectType>
-        <DefaultName>Tests.cs</DefaultName>
+        <DefaultName>TestFixture.cs</DefaultName>
     </TemplateData>
     <TemplateContent>
         <ProjectItem ReplaceParameters="true">NUnitTestFixture.cs</ProjectItem>
